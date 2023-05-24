@@ -1,2 +1,2 @@
 # wysiwyg-summernote-vanilla
-WYSIWYG Rich Text Editor built with Summernote and Vite
+WYSIWYG Rich Text Editor built with Summernote

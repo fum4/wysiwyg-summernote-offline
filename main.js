@@ -75,4 +75,7 @@ window.$(async() => {
   summernote('fullscreen.toggle');
   showTooltip();
   hydrate();
+
+  // Avoid initialization flicker
+  document.querySelector('form').style.visibility = 'visible';
 });
